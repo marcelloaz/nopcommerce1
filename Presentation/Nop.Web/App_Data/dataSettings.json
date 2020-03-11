@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=SQL5050.site4now.net;Initial Catalog=DB_9F9387_senhorbacon;User ID=DB_9F9387_senhorbacon_admin;Password=@ICQ65t8xh2k7",
+  "RawDataSettings": {}
+}
